@@ -1,0 +1,7 @@
+.env
+.env.*
+!.env.example
+**/.obsidian/workspace*.json
+.loom/
+__pycache__/
+node_modules/
